@@ -3,91 +3,83 @@ Practical engineering and laboratory training completed through academic and pro
 
 ## Overview
 
-This repository documents the practical laboratory training completed as part of my Clinical Laboratory Technician training. It highlights hands-on experience in molecular diagnostics, clinical pathology, serology, hematology, and laboratory safety, demonstrating proficiency in essential diagnostic techniques and laboratory practices.
+This repository documents practical technical training completed in clinical laboratory diagnostics and renewable energy engineering. It demonstrates hands-on experience with laboratory techniques, photovoltaic system simulation, wind turbine performance analysis, and wind farm assessment using industry-standard software.
 
 ---
 
-## Training Objectives
-
-- Develop practical skills in clinical laboratory diagnostics.
-- Gain hands-on experience with molecular biology and pathology techniques.
-- Learn standard laboratory procedures and quality assurance practices.
-- Operate laboratory equipment safely and accurately.
-- Follow Good Laboratory Practice (GLP) and biosafety guidelines.
+## 1. Clinical Laboratory Technician Training
+...
+(PCR, DNA Isolation, PAP Test, Serology, Blood Grouping, Fibrinogen, Water Bath)
 
 ---
 
-## Practical Training
+## 2. PVsyst Training
 
-### Molecular Biology
-- Polymerase Chain Reaction (PCR)
-- DNA Isolation and Purification
+### Activities
+- Estimated daily average solar radiation for different photovoltaic panel tilt angles.
+- Evaluated the impact of tilt angle on incident solar irradiance.
+- Analyzed solar resource data for photovoltaic system design.
 
-### Clinical Pathology
-- Papanicolaou (PAP) Test
-
-### Serology
-- Serological Testing
-
-### Hematology
-- Blood Grouping (ABO and Rh Typing)
-- Fibrinogen Testing
+### Skills
+- PV System Simulation
+- Solar Resource Assessment
+- Tilt Angle Optimization
+- Energy Yield Analysis
 
 ---
 
-## Laboratory Equipment Used
+## 3. DNV Bladed Training
+
+### Activities
+- Explored the DNV Bladed interface and simulation workflow.
+- Simulated wind turbine aerodynamic and structural performance.
+- Analyzed turbine loads and operational behavior under different wind conditions.
+- Reviewed turbine performance outputs and simulation results.
+
+### Skills
+- Wind Turbine Simulation
+- Aerodynamic Analysis
+- Load Assessment
+- Turbine Performance Evaluation
+- Renewable Energy Engineering
+
+---
+
+## 4. WindFarmer Training
+
+### Activities
+- Performed wind farm layout design.
+- Conducted wind resource assessment.
+- Evaluated wake effects between turbines.
+- Estimated annual energy production (AEP).
+- Assessed turbine positioning and site suitability.
+
+### Skills
+- Wind Farm Design
+- Wind Resource Assessment
+- Wake Effect Analysis
+- Energy Yield Estimation
+- Wind Farm Optimization
+
+---
+
+## Software Covered
+
+- PVsyst
+- DNV Bladed
+- WindFarmer
+
+---
+
+## Laboratory Equipment Covered
 
 - PCR Thermal Cycler
 - Water Bath
-- Micropipettes
 - Centrifuge
-- Laboratory Glassware and Consumables
+- Micropipettes
 
 ---
 
-## Skills Acquired
+## Repository Purpose
 
-- Molecular Diagnostic Techniques
-- DNA Extraction
-- PCR Workflow
-- Clinical Sample Handling
-- Serological Testing
-- Blood Typing
-- Coagulation Testing
-- Laboratory Documentation
-- Biosafety Practices
-- Good Laboratory Practice (GLP)
-- Quality Control Procedures
-
----
-
-## Learning Outcomes
-
-- Performed molecular and clinical laboratory procedures following established protocols.
-- Developed competency in specimen preparation and diagnostic testing.
-- Applied laboratory quality control and biosafety measures.
-- Strengthened technical skills in clinical laboratory instrumentation and sample analysis.
-- Improved accuracy in laboratory documentation and reporting.
-
----
-
-## Repository Contents
-
-- Training notes
-- Laboratory protocols
-- Workflow diagrams
-- Practical summaries
-- Equipment documentation
-- Reference materials
-
----
-
-## Disclaimer
-
-This repository is intended solely for educational and professional portfolio purposes. It contains no confidential, proprietary, or patient-identifiable information.
-
----
-
-## Author
-
-**Abhipsa Chakraborty**
+This repository demonstrates practical training in renewable energy engineering and clinical laboratory techniques, highlighting experience with industry-standard software, laboratory procedures, and technical workflows acquired through academic and professional training.
