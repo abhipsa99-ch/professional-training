@@ -27,47 +27,68 @@ This repository documents practical technical training completed in clinical lab
 - Energy Yield Analysis
 
 ---
-
-## 3. DNV Bladed Training
-
-### Activities
-- Explored the DNV Bladed interface and simulation workflow.
-- Simulated wind turbine aerodynamic and structural performance.
-- Analyzed turbine loads and operational behavior under different wind conditions.
-- Reviewed turbine performance outputs and simulation results.
-
-### Skills
-- Wind Turbine Simulation
-- Aerodynamic Analysis
-- Load Assessment
-- Turbine Performance Evaluation
-- Renewable Energy Engineering
-
+## 3. Biogas Production
+- 
+Participated in hands-on biogas production training using organic biomass feedstocks.
+Prepared and processed biomass substrates for anaerobic digestion.
+Assisted in the setup and operation of laboratory-scale biogas digesters.
+Monitored process parameters including temperature, pH, and retention time.
+Collected and analyzed biogas production data.
+Learned the principles of anaerobic digestion and renewable bioenergy generation.
+Observed digestate handling and its application as an organic fertilizer.
+Followed laboratory safety protocols and standard operating procedures.
 ---
+### Skills
+Anaerobic Digestion
+Biogas Production
+Biomass Processing
+Renewable Energy Technologies
+Process Monitoring
+Laboratory Techniques
+Data Collection and Analysis
+Sample Preparation
+Scientific Documentation
+Problem Solving
+Team Collaboration
+Health and Safety Compliance
 
-## 4. WindFarmer Training
+## 4. Wooden Wind Turbine Manufacturing 
 
 ### Activities
-- Performed wind farm layout design.
-- Conducted wind resource assessment.
-- Evaluated wake effects between turbines.
-- Estimated annual energy production (AEP).
-- Assessed turbine positioning and site suitability.
+- Designed and assembled a small-scale wooden horizontal-axis wind turbine.
+Fabricated turbine components, including blades, hub, nacelle, and tower using wood and standard workshop tools.
+Optimized blade geometry based on aerodynamic principles.
+Assembled the rotor and ensured proper blade alignment and balance.
+Installed the turbine on a test stand for performance evaluation.
+Conducted wind tunnel testing under different wind speeds.
+Measured turbine rotational speed, power output, and tip-speed ratio.
+Evaluated the power coefficient (Cp)–tip-speed ratio (λ) relationship.
+Analyzed turbine performance and documented experimental results.
+Followed laboratory safety procedures throughout manufacturing and testing.
 
 ### Skills
-- Wind Farm Design
-- Wind Resource Assessment
-- Wake Effect Analysis
-- Energy Yield Estimation
-- Wind Farm Optimization
+- Wind Turbine Design
+Wooden Blade Fabrication
+Wind Turbine Assembly
+Wind Tunnel Testing
+Aerodynamics
+Rotor Balancing
+Performance Testing
+Cp–λ Curve Analysis
+Experimental Data Collection
+Technical Documentation
+Engineering Problem Solving
+Team Collaboration
+Laboratory Safety
 
 ---
 
 ## Software Covered
 
 - PVsyst
-- DNV Bladed
-- WindFarmer
+- Excel
+- Python
+- Matlab
 
 ---
 
