@@ -28,8 +28,9 @@ This repository documents practical technical training completed in clinical lab
 
 ---
 ## 3. Biogas Production
-- 
-Participated in hands-on biogas production training using organic biomass feedstocks.
+
+### Activities
+-Participated in hands-on biogas production training using organic biomass feedstocks.
 Prepared and processed biomass substrates for anaerobic digestion.
 Assisted in the setup and operation of laboratory-scale biogas digesters.
 Monitored process parameters including temperature, pH, and retention time.
@@ -37,6 +38,7 @@ Collected and analyzed biogas production data.
 Learned the principles of anaerobic digestion and renewable bioenergy generation.
 Observed digestate handling and its application as an organic fertilizer.
 Followed laboratory safety protocols and standard operating procedures.
+
 ---
 ### Skills
 Anaerobic Digestion
