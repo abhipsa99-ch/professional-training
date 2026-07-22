@@ -23,6 +23,14 @@ This repository documents practical technical training completed in clinical lab
 - **Fibrinogen Testing:** Assisted in coagulation testing by preparing plasma samples, performing fibrinogen assays, and recording observations according to laboratory procedures.
 
 - **Water Bath Operation:** Operated and monitored laboratory water baths for temperature-controlled incubation of samples and reagents, ensuring accurate temperature maintenance and equipment cleanliness.
+
+- Processed and prepared biological samples for laboratory analysis.
+Performed routine clinical laboratory procedures following Standard Operating Procedures (SOPs).
+Operated and maintained clinical laboratory instruments.
+Assisted in biochemical, hematological, coagulation, and immunological testing.
+Ensured compliance with laboratory safety, biosafety, and quality control protocols.
+Documented laboratory results accurately and maintained laboratory records.
+Performed routine calibration and quality control checks on laboratory equipment.
 ---
 
 ## 2. PVsyst Training
