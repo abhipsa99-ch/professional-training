@@ -31,6 +31,42 @@ Assisted in biochemical, hematological, coagulation, and immunological testing.
 Ensured compliance with laboratory safety, biosafety, and quality control protocols.
 Documented laboratory results accurately and maintained laboratory records.
 Performed routine calibration and quality control checks on laboratory equipment.
+
+## Laboratory Equipment Used
+
+### Hematology
+- Haemocytometer
+- Centrifuge
+
+### Clinical Biochemistry
+- Semi-Automated Biochemistry Analyzer
+- Fully Automated Biochemistry Analyzer
+- Electrolyte Analyzer
+
+### Coagulation
+- Haemostasis Analyzer
+
+### Immunodiagnostics
+- Chemiluminescence Immunoassay (CLIA) Analyzer
+
+### Analytical Instrumentation
+- High-Performance Liquid Chromatography (HPLC)
+
+---
+
+## Laboratory Techniques
+
+- Sample Collection and Processing
+- Serum and Plasma Separation
+- Centrifugation
+- Quantitative Biochemical Analysis
+- Electrolyte Analysis
+- Coagulation Testing
+- Immunoassay Testing
+- Instrument Calibration
+- Internal Quality Control (IQC)
+- Laboratory Documentation
+- Biosafety and Infection Control
 ---
 
 ## 2. PVsyst Training
