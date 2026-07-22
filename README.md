@@ -3,7 +3,7 @@ Practical engineering and laboratory training completed through academic and pro
 
 ## Overview
 
-This repository documents practical technical training completed in clinical laboratory diagnostics and renewable energy engineering. It demonstrates hands-on experience with laboratory techniques, photovoltaic system simulation, wind turbine performance analysis, and wind farm assessment using industry-standard software.
+This repository documents practical technical training completed in clinical laboratory diagnostics and renewable energy engineering. It demonstrates hands-on experience with laboratory techniques, photovoltaic system simulation, wind turbine performance analysis, and biogas production using anaerobic digestion.
 
 ---
 
@@ -16,15 +16,16 @@ This repository documents practical technical training completed in clinical lab
 ## 2. PVsyst Training
 
 ### Activities
-- Estimated daily average solar radiation for different photovoltaic panel tilt angles.
-- Evaluated the impact of tilt angle on incident solar irradiance.
-- Analyzed solar resource data for photovoltaic system design.
+- The study of the relation between the relative daily difference between the measured and stimulated 
+daily energy yield and the months of the year for two optimizers. 
+- The study of the relation between the relative daily difference between the measured and stimulated 
+daily energy yield and the months of the year after making a change in the tilt angle by 10%.
 
 ### Skills
 - PV System Simulation
-- Solar Resource Assessment
+- Wind Turbine Designing
 - Tilt Angle Optimization
-- Energy Yield Analysis
+- Anaerobic Digestion & Titration
 
 ---
 ## 3. Biogas Production
@@ -96,7 +97,7 @@ Laboratory Safety
 
 ## Laboratory Equipment Covered
 
-- PCR Thermal Cycler
+- PCR (Molbio True Prep)
 - Water Bath
 - Centrifuge
 - Micropipettes
