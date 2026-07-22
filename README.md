@@ -9,8 +9,20 @@ This repository documents practical technical training completed in clinical lab
 
 ## 1. Clinical Laboratory Technician Training
 ...
-(PCR, DNA Isolation, PAP Test, Serology, Blood Grouping, Fibrinogen, Water Bath)
 
+- **PCR (Polymerase Chain Reaction):** Prepared reaction mixtures, handled DNA samples using aseptic techniques, operated thermal cyclers, and documented experimental results under supervision.
+
+- **DNA Isolation:** Performed DNA extraction from biological samples using standard laboratory protocols, ensuring proper sample handling and maintaining contamination-free conditions.
+
+- **PAP Test:** Assisted in the preparation and microscopic examination of cervical cytology samples, following standard laboratory procedures for cell identification and documentation.
+
+- **Serology:** Conducted serological assays to detect antigen-antibody reactions, prepared samples and reagents, and recorded test results accurately.
+
+- **Blood Grouping:** Performed ABO and Rh blood typing using standard agglutination techniques while following laboratory quality and safety protocols.
+
+- **Fibrinogen Testing:** Assisted in coagulation testing by preparing plasma samples, performing fibrinogen assays, and recording observations according to laboratory procedures.
+
+- **Water Bath Operation:** Operated and monitored laboratory water baths for temperature-controlled incubation of samples and reagents, ensuring accurate temperature maintenance and equipment cleanliness.
 ---
 
 ## 2. PVsyst Training
